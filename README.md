@@ -24,9 +24,6 @@ This project showcases my skills in working with advanced data structures, recur
 - [Example](#example)
 - [Performance Considerations](#performance-considerations)
 - [Advanced Topics](#advanced-topics)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 - **Binary Tree Encoding**: I’ve utilized a binary tree structure where each leaf node represents a unique character, and the path from the root to each leaf node encodes the character into a binary string.
